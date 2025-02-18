@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://www.halekulani.com/wp-content/uploads/2020/12/surfing.jpg');
+    background-image: url('background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -13,4 +13,10 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
     font-family: 'Roboto Condensed', sans-serif;
+}
+
+.profile {
+    float: left;
+    margin: 10px;
+    text-align: center;
 }
